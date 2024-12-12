@@ -1,0 +1,23 @@
+
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.recipes_title{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+li{
+    margin: 20px;
+    width:200px;
+    height: auto;
+}
