@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: Inter, sans-serif;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.header{
+    font-size: 100px;
+    font-weight: bolder;
+}
+img{
+    margin:20px;
+}
+
+.description{
+    margin:20px;
+}
+
+.Ingredients, .steps, .other_recipes{
+    font-weight: bold;
+    font-size: 50px;
+    margin:20px;
+}
+
+li{
+    margin:20px;
+    margin-left: 60px;
+}
+.other_recipes{
+    font-size: 30px;
+}
+
